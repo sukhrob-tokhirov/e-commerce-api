@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # E-Commerce Web App MVP
 
 ## Table of Contents
